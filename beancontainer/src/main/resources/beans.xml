@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<bean name="user" class="com.model.User">
+<property name="addr" ref="addr"></property>
+<property name="name" value="zhangsan"></property>
+<property name="age" value="18"></property>
+</bean>
+ 
+<bean name="addr" class="com.model.Address">
+<property name="detail" value="CQUPT"></property>
+</bean>
+
+</config>
