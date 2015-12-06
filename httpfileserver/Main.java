@@ -1,8 +1,8 @@
 
 /**
  * 
- * @author <a href="mailto:zhangyu.xzy@aliyun.com">Ñ¦Óð</a>
- * @version 1.1 2015Äê12ÔÂ6ÈÕ
+ * @author <a href="mailto:zhangyu.xzy@aliyun.com">è–›ç¾½</a>
+ * @version 1.1 2015å¹´12æœˆ6æ—¥
  * @since 1.1
  */
 public class Main {
